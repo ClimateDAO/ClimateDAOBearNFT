@@ -1,0 +1,35 @@
+{
+  "name": "ClimateDAO Polar Bear Collection #294",
+  "description": "ClimateDAO is a decentralized fund for crowd-sourced investor activism focused on climate action. These NFT's were airdropped to our crowdfund contributors as a Thank You for their contribution",
+  "image": "ipfs://NewUriToReplace/294.png",
+  "dna": "b2e968ce24f392cfa5f4ccf6e8dbcc8336027ecb",
+  "edition": 294,
+  "date": 1640038683516,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background funky"
+    },
+    {
+      "trait_type": "body",
+      "value": "body"
+    },
+    {
+      "trait_type": "face",
+      "value": "face sad"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "hoodie",
+      "value": "supreme"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "top hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
